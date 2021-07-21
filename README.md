@@ -68,6 +68,8 @@ The AWX web server is accessible on the deployment host, using the host_port val
 
 You will prompted with a login dialog. The default administrator username is admin, and the password is password, incase if you have updated the user name and password do use the same to login.
 
+<img src="./docs/images/awxconsole.png" align="center">
+
 ### Maintenance
 
 Since the installation of __AWX__ is done using _docker-compose_ component the maintenance can be easily managed using `docker-compose` 
