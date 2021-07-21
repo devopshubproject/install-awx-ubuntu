@@ -9,7 +9,7 @@ AWX is an open-source community project sponsored by Red Hat. It serves as the d
 __Ansible AWX__ provides a web-based user interface to manage Ansible hosts, playbooks, modules, job scheduling, workflow automation, credential sharing, and tooling to enable delegation.
 
 
- ![Ansible AWX](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevops.cisel.ch%2Fdeploy-configure-and-maintain-awx-on-ubuntu-1804&psig=AOvVaw1K_8RGiydhDLH4xdy2l7bu&ust=1626941352080000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjzr4Db8_ECFQAAAAAdAAAAABAD)
+<img src="./docs/images/awx.png" align="center">
 
 
 Before we move further with the installation, we need to ensure few prequisties
